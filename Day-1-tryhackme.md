@@ -3,14 +3,15 @@
 ## Rooms Completed
 1. Intro to Cyber Security
 2. Defensive Security Intro
+3. Search Skills
 
 ## What I learned
 - Basic understanding of cybersecurity concepts
 - Difference between offensive and defensive security
-- How blue teams detect and respond to threats
+- Importance of search techniques in investigations and recon
 
 ## Key Takeaway
-Defense plays a critical role in cybersecurity alongside offensive techniques.
+Strong fundamentals and research skills are essential in cybersecurity.
 
 ## Next Steps
 - Continue Pre Security path
