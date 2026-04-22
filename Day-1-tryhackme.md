@@ -1,13 +1,17 @@
 # Day 1 - TryHackMe Start
 
-## What I did
-- Created TryHackMe account
-- Started Pre Security path
+## Rooms Completed
+1. Intro to Cyber Security
+2. Defensive Security Intro
 
 ## What I learned
-- Basic understanding of cybersecurity
-- Importance of hands-on practice
+- Basic understanding of cybersecurity concepts
+- Difference between offensive and defensive security
+- How blue teams detect and respond to threats
+
+## Key Takeaway
+Defense plays a critical role in cybersecurity alongside offensive techniques.
 
 ## Next Steps
-- Complete first rooms
-- Continue learning daily
+- Continue Pre Security path
+- Practice daily and document progress
