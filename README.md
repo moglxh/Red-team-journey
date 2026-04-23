@@ -1,0 +1,1 @@
+- Day 2: Linux Fundamentals Part 1 and 2, Nmap Live Host Discovery completed
